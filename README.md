@@ -1,4 +1,4 @@
-### Hi there, I'm Cherry 🍒
+### Hi there! 🍒
 
 <!--
 **SweetCherryx3/SweetCherryx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
