@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 
 <a href="https://git-scm.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50"></a>
 <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="Vim" height="50"></a>
+<a href="https://cmake.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/CMake-logo-triangle-high-res.png" alt="CMake" height="50"></a>
