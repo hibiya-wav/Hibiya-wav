@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - Currently a Junior at New Jersey Institute of Technology
-- An artist on the side
-
 
 ## Languages
 
